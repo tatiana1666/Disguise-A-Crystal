@@ -1,0 +1,65 @@
+data_disguised
+_symmetry_space_group_name_H-M 'P 1'
+_cell_length_a 13.6880584
+_cell_length_b 15.8056084
+_cell_length_c 33.52875864
+_cell_angle_alpha 90.0
+_cell_angle_beta 162.28452766
+_cell_angle_gamma 106.77865488
+_chemical_formula_sum 'Na16 Cl16 '
+_cell_volume 698.00520916
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_symmetry_multiplicity
+_atom_site_occupancy
+Na1 Na 0.00531222 0.25166422 0.00199978 1 1
+Cl1 Cl 0.0018554 0.00072037 0.25046866 1 1
+Na2 Na 0.00358991 0.50141993 0.50120291 1 1
+Na3 Na 0.00752999 0.00224391 0.50285981 1 1
+Cl2 Cl 0.00608183 0.00202065 0.75228863 1 1
+Cl3 Cl 0.00184772 0.50047555 0.75050793 1 1
+Cl4 Cl 0.00510166 0.25143592 0.75168368 1 1
+Cl5 Cl 0.50160402 0.25081158 0.75044132 1 1
+Na4 Na 0.50415778 0.25148255 0.00140583 1 1
+Cl6 Cl 0.50306169 0.75126559 0.75111458 1 1
+Na5 Na 0.50171649 0.50058504 0.50036684 1 1
+Cl7 Cl 0.50624502 0.50150198 0.75222205 1 1
+Na6 Na 0.5067035 0.75193218 0.00246844 1 1
+Cl8 Cl 0.00134249 0.50036007 0.25029661 1 1
+Na7 Na 0.50142318 0.00056421 0.50036215 1 1
+Na8 Na 0.00488685 0.50148868 0.00157339 1 1
+Na9 Na 0.50455037 0.25117089 0.50176745 1 1
+Cl9 Cl 0.00602558 0.25184835 0.25220278 1 1
+Cl10 Cl 0.00470274 0.7515086 0.25177589 1 1
+Cl11 Cl 0.50438354 0.75149411 0.25153854 1 1
+Cl12 Cl 0.50455095 0.00139648 0.75166441 1 1
+Na10 Na 0.00094525 0.75034213 0.0002973 1 1
+Cl13 Cl 0.00565921 0.75179098 0.75202293 1 1
+Na11 Na 0.5042585 0.75104662 0.50155824 1 1
+Cl14 Cl 0.50113046 0.00033523 0.25042926 1 1
+Na12 Na 0.5065162 0.00205886 0.00243937 1 1
+Na13 Na 0.00097304 0.75042143 0.50033582 1 1
+Na14 Na 0.00499068 0.25129684 0.50180496 1 1
+Na15 Na 0.00530907 0.00175048 0.00195447 1 1
+Cl15 Cl 0.50472412 0.25121068 0.25157222 1 1
+Cl16 Cl 0.5009694 0.50040139 0.25009921 1 1
+Na16 Na 0.50364903 0.50124385 0.00108614 1 1
+
+#This CIF is based on an input CIF which has been disguised using the following transformations: 
+# The basis (unit cell parameters parameterised) was transformed by applying the following matrix on the right:
+#[-1. -1.  2.]
+#[-2.  1.  2.]
+#[-1.  0.  1.]
+# Cell_length_a, cell_length_b, cell_length_c were extended by the corresponding scale factors: [1, 2, 2]
+# All atoms were shifted randomly by a maximum of 0.01 angstroms.
+# The atom order was shuffled. 
