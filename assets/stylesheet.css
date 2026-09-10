@@ -1,0 +1,215 @@
+body {
+  background-color:white;
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  font-family: 'Verdana', sans-serif;
+  font-size:64px;
+  text-align: center;
+  font-weight: bolder;
+}
+h2 {
+  font-family: 'Verdana', sans-serif;
+  font-size:32px;
+}
+p {
+  font-size:larger;
+  
+}
+
+.topSection {
+    display: grid;
+    grid-template-columns: 80px 200px auto;
+    gap: 5px;  
+    background-color:white;
+}
+
+#intro{
+    margin:10px;
+}
+
+.tableHeadings{
+    padding:5px;
+    background-color:#cfecfa;
+    color:black;
+    font-size:large;
+}
+
+.toggleBox{
+    background-color:white;
+    text-align: center;
+}
+
+.transformationLabel{
+    background-color:#cfecfa;
+    padding:5px;
+    font-size:larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.moreDetails{
+    display: grid;
+    grid-template-columns: 380px auto;
+    column-gap: 5px;
+}
+
+.moreDetailsInputBox{
+    display: grid;
+    grid-template-columns: 250px auto;
+    column-gap: 5px;
+}
+
+.moreDetailsLabel{
+    padding:3px;
+    background-color:#e6f6fb;
+    color:rgb(65, 65, 65);
+    font-size:medium;
+}
+
+.moreDetailsInput{
+    background-color:white;
+    width:100px;
+}
+
+.displaySfs{
+    display: grid;
+    grid-template-columns: 100px auto;
+    column-gap: 5px;
+}
+
+.displaySfs div{
+    padding:3px;
+    background-color:#e6f6fb;
+    color:rgb(65, 65, 65);
+    font-size:medium;
+}
+
+.moreDetailsShift{
+    display: grid;
+    grid-template-columns: 300px auto;
+    column-gap: 5px;
+}
+
+.matrix{
+    display: grid; 
+    grid-template-columns: repeat(3, 30px); 
+    gap: 2px; 
+    margin:5px;
+}
+
+.matrix div{
+    background:white;
+    font-size:medium;
+    color:rgb(65, 65, 65);
+    text-align: center;
+}
+
+
+#bottomSection{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.column{
+    border-width:1px;
+    border-style: solid;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:20px;
+    margin:2px;
+    margin-top:10px;
+}
+
+#upload-data{
+    margin-left: 5px;
+    margin-right: 5px;
+    border-Width: 1px;
+    border-Style: dashed;
+    border-Radius: 4px;
+    background-color: #cfecfa;
+    text-align: center;
+    padding: 2px;
+    font-size: larger;
+}
+
+.exampleBox{
+    display: grid;
+    grid-template-columns: 60px auto;
+    background-color:white;
+    font-size: larger;
+    padding:2px;
+}
+
+.exampleBoxLabel{
+    padding:12px;
+}
+
+#output-fileName{
+    width:100%;
+    font-size: x-large;
+    font-weight:bold;
+    padding:10px;
+}
+
+#output-file{
+    width:100%;
+    padding:10px;
+    font-size:large;
+    white-space: pre-line;
+    font-size:larger;
+}
+
+.nameTextBox{
+    width:100%;
+    display: grid;
+    grid-template-columns: auto 90px 30px;
+    font-size: larger;
+    gap: 5px;  
+}
+
+#inputName{
+    height: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#inputNameSubmitBox{
+    height: 30px;
+    font-size:larger;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#indicator1{
+    background-color:lightgray;
+    height: 30px;
+}
+
+
+.generateSection{
+    margin-bottom:10px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-size:x-large;
+}
+
+#btn-download{
+    font-size:x-large;
+    float: right;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#generateCIFbutton{
+    font-size:x-large;
+    font-family: "Times New Roman", Times, serif;
+    width:100%;
+}
+
+#output-new-Cif{
+    width:100%;
+    padding:10px;
+    font-size:large;
+    white-space: pre-line;
+    font-size:larger;
+}
